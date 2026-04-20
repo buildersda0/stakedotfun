@@ -1,6 +1,6 @@
 # Steak Protocol
 
-Open-source Solana staking program powering [stake.fun](https://stake.fun) — the staking layer for pump.fun meme coins.
+Open-source Solana staking program powering [steakcoin.fun](https://steakcoin.fun) — the staking layer for pump.fun meme coins.
 
 **Program ID (mainnet + devnet):** [`DNKutNU2kSDyssGvn9DdKD9NQWPqGX6wXV2zeTjXeXyU`](https://solscan.io/account/DNKutNU2kSDyssGvn9DdKD9NQWPqGX6wXV2zeTjXeXyU)
 
